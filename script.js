@@ -10,7 +10,7 @@
       mouseSize: 120,
    }
 
-   const TWO_PI = 2 * Math.PI
+   const TWO_PI = 2 * Math.PI;
    const canvas = document.querySelector('canvas');
    const ctx = canvas.getContext('2d');
    let w, h, mouse, dots;
@@ -98,7 +98,7 @@
    loop();
 
    function setPos({layerX, layerY}) {
-      [mouse.x, mouse.y] = [layerX, layerY]
+      [mouse.x, mouse.y] = [layerX, layerY];
    }
 
    function isDown() {

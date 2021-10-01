@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73946cfe-74aa-4280-89bd-f6cc69c841c6" name="Changes" comment="" />
+    <list default="true" id="73946cfe-74aa-4280-89bd-f6cc69c841c6" name="Changes" comment="fix/workspace file commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Work/MVideo/promo-frontend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633097105661</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix/workspace file commit">
+      <created>1633120000139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633120000139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +109,7 @@
     <MESSAGE value="created a ball game" />
     <MESSAGE value="cherry-pick.js" />
     <MESSAGE value="cherry-pick to" />
-    <option name="LAST_COMMIT_MESSAGE" value="cherry-pick to" />
+    <MESSAGE value="fix/workspace file commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix/workspace file commit" />
   </component>
 </project>

@@ -1,4 +1,5 @@
 (() => {
+   console.log(1)
    const config = {
       dotMinRadius: 6,
       dotMaxRadius: 20,

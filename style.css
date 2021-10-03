@@ -3,4 +3,5 @@ body {
     overflow: hidden;
     background: rgb(20, 25, 45);
     cursor: none;
+    justify-content: center;
 }
